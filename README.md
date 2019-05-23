@@ -1,3 +1,5 @@
+# Program explanation
+
 Step1 # Import the dplyr library
 Step2 # Reading test dataset
 The Samsung folder was dowloaded to the working directory
@@ -12,7 +14,7 @@ after that I selected only the measurements on the mean and standard deviation f
 Step4 # Uses descriptive activity names to name the activities in the data set
 Using the activity_labels.txt I labelled the data set with descriptive variable names.
 
-# To make data friendlier I changed the names of variables cleaning some specifc characters as the numbers and some repetition> 
+Obs # To make data friendlier I changed the names of variables cleaning some specifc characters as the numbers and some repetition> 
 
 Step5 # From the data set in step 4, creates a second, independent tidy data set with the average of 
 each variable for each activity and each subject Writting to file "run_data_summary.txt in the working directory
